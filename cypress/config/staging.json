@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://automationteststore.com/",
+    "env": {
+        "name": "Jon Doe",
+        "email": "test@test.com"
+    }
+}
